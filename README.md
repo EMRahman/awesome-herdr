@@ -2224,7 +2224,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**szrenwei/herdr-agent-metrics**](https://github.com/szrenwei/herdr-agent-metrics) | Tracks context-window and token metrics for Claude Code, Codex, and TraeX sessions and summarizes them in a small Herdr overlay. |
 | [**tomys22/herdr-agent-usage-plugin**](https://github.com/tomys22/herdr-agent-usage-plugin) | Displays Claude, Codex, and Gemini API usage, including session and weekly percentages and reset times, in a Herdr split. |
 | [**ram4-dev/herdr-codex-usage**](https://github.com/ram4-dev/herdr-codex-usage) | Detects installed agents and shows their usage quotas inside Herdr. |
-| [**EMRahman/herdr-context-monitor**](https://github.com/EMRahman/herdr-context-monitor) | Adds one row per agent to the Herdr sidebar with its context-window use, using a single dependency-free Python file, and displays it in red above 50%. Supports Claude Code, Codex, and Antigravity CLI, and reports the token counts for other clients to show, such as [EMRahman/herdr-web-ui](https://github.com/EMRahman/herdr-web-ui). |
+| [**EMRahman/herdr-context-monitor**](https://github.com/EMRahman/herdr-context-monitor) | Adds one row per agent to the Herdr sidebar with its context-window use, using a single dependency-free Python file, and displays it in red above 50%. |
 
 ### Output inspection, logs, and transcripts
 
